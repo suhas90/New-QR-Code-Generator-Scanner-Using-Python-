@@ -21,3 +21,14 @@ Run the main program:
 ```bash
 python main.py
 ```
+Project File Structure 
+
+qr-customizer/
+├── src/
+│   ├── __init__.py
+│   ├── generator.py
+│   └── scanner.py
+├── requirements.txt
+├── README.md
+└── main.py
+
